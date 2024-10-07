@@ -1,3 +1,3 @@
 # lyrics
 
-Made the Flutter Lyric example for covering the gap for missing assets
+Made the Flutter's flutter_lyric package example work, covering the gap of missing assets
